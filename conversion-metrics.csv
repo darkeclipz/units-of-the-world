@@ -1,0 +1,468 @@
+﻿from,to,factor,factor_normalized
+acres,ares,40.47,40.468564224
+acres,hectares,0.40,0.404685642
+acres,square feet,43560.00,43560.000000000
+acres,square kilometers,0.00,0.004046856
+acres,square meters,4046.86,4046.856422400
+acres,square miles (statute),0.00,0.001562500
+acres,square yards,4840.00,4840.000000000
+ares,square meters,100.00,100.000000000
+ares,square yards,119.60,119.599000000
+"barrels, US beer",gallons,31.00,31.000000000
+"barrels, US beer",liters,117.35,117.347770000
+"barrels, US petroleum",gallons (British),34.97,34.970000000
+"barrels, US petroleum",gallons (US),42.00,42.000000000
+"barrels, US petroleum",liters,158.99,158.987290000
+"barrels, US proof spirits",gallons,40.00,40.000000000
+"barrels, US proof spirits",liters,151.42,151.416470000
+bushels (US),bushels (British),0.97,0.968900000
+bushels (US),cubic feet,1.24,1.244456000
+bushels (US),cubic inches,2150.42,2150.420000000
+bushels (US),cubic meters,0.04,0.035239070
+bushels (US),cubic yards,0.05,0.046090960
+bushels (US),dekaliters,3.52,3.523907000
+bushels (US),dry pints,64.00,64.000000000
+bushels (US),dry quarts,32.00,32.000000000
+bushels (US),liters,35.24,35.239070170
+bushels (US),pecks,4.00,4.000000000
+cables,fathoms,120.00,120.000000000
+cables,meters,219.46,219.456000000
+cables,yards,240.00,240.000000000
+carat,milligrams,200.00,200.000000000
+centimeters,feet,0.03,0.032808400
+centimeters,inches,0.39,0.393700800
+centimeters,meters,0.01,0.010000000
+centimeters,yards,0.01,0.010936130
+"centimeters, cubic",cubic inches,0.06,0.061023744
+"centimeters, square",square feet,0.00,0.001076390
+"centimeters, square",square inches,0.16,0.155000310
+"centimeters, square",square meters,0.00,0.000100000
+"centimeters, square",square yards,0.00,0.000119599
+"chains, square surveyor's",ares,4.05,4.046860000
+"chains, square surveyor's",square feet,4356.00,4356.000000000
+"chains, surveyor's",feet,66.00,66.000000000
+"chains, surveyor's",meters,20.12,20.116800000
+"chains, surveyor's",rods,4.00,4.000000000
+cords of wood,cubic feet,128.00,128.000000000
+cords of wood,cubic meters,3.62,3.624556000
+cords of wood,cubic yards,4.74,4.740700000
+cups,liquid ounces (US),8.00,8.000000000
+cups,liters,0.24,0.236588200
+degrees Celsius,degrees Fahrenheit,multiplyby1.8andadd32,#VALUE!
+degrees Fahrenheit,degrees Celsius,subtract32anddivideby1.8,#VALUE!
+dekaliters,bushels,0.28,0.283775900
+dekaliters,cubic feet,0.35,0.353146700
+dekaliters,cubic inches,610.24,610.237400000
+dekaliters,dry pints,18.16,18.161660000
+dekaliters,dry quarts,9.08,9.080829800
+dekaliters,liters,10.00,10.000000000
+dekaliters,pecks,1.14,1.135104000
+"drams, avoirdupois",avoirdupois ounces,0.06,0.062550000
+"drams, avoirdupois",grains,27.34,27.344000000
+"drams, avoirdupois",grams,1.77,1.771845200
+"drams, troy",grains,60.00,60.000000000
+"drams, troy",grams,3.89,3.887934600
+"drams, troy",scruples,3.00,3.000000000
+"drams, troy",troy ounces,0.13,0.125000000
+"drams, liquid (US)",cubic inches,0.23,0.226000000
+"drams, liquid (US)",liquid drams (British),1.04,1.041000000
+"drams, liquid (US)",liquid ounces,0.13,0.125000000
+"drams, liquid (US)",milliliters,3.70,3.696690000
+"drams, liquid (US)",minims,60.00,60.000000000
+fathoms,feet,6.00,6.000000000
+fathoms,meters,1.83,1.828800000
+feet,centimeters,30.48,30.480000000
+feet,inches,12.00,12.000000000
+feet,kilometers,0.00,0.000304800
+feet,meters,0.30,0.304800000
+feet,statute miles,0.00,0.000189390
+feet,yards,0.33,0.333333300
+"feet, cubic",bushels,0.80,0.803563950
+"feet, cubic",cubic decimeters,28.32,28.316847000
+"feet, cubic",cubic inches,1728.00,1728.000000000
+"feet, cubic",cubic meters,0.03,0.028316847
+"feet, cubic",cubic yards,0.04,0.037037040
+"feet, cubic",dry pints,51.43,51.428090000
+"feet, cubic",dry quarts,25.71,25.714050000
+"feet, cubic",gallons,7.48,7.480519000
+"feet, cubic",gills,239.38,239.376600000
+"feet, cubic",liquid ounces,957.51,957.506500000
+"feet, cubic",liquid pints,59.84,59.844160000
+"feet, cubic",liquid quarts,29.92,29.922080000
+"feet, cubic",liters,28.32,28.316846592
+"feet, cubic",pecks,3.21,3.214256000
+"feet, square",acres,0.00,0.000022957
+"feet, square",square centimeters,929.03,929.030400000
+"feet, square",square decimeters,9.29,9.290304000
+"feet, square",square inches,144.00,144.000000000
+"feet, square",square meters,0.09,0.092903040
+"feet, square",square yards,0.11,0.111111100
+furlongs,feet,660.00,660.000000000
+furlongs,inches,7920.00,7920.000000000
+furlongs,meters,201.17,201.168000000
+furlongs,statute miles,0.13,0.125000000
+furlongs,yards,220.00,220.000000000
+"gallons, liquid (US)",cubic feet,0.13,0.133680600
+"gallons, liquid (US)",cubic inches,231.00,231.000000000
+"gallons, liquid (US)",cubic meters,0.00,0.003785412
+"gallons, liquid (US)",cubic yards,0.00,0.004951130
+"gallons, liquid (US)",gills (US),32.00,32.000000000
+"gallons, liquid (US)",liquid gallons (British),0.83,0.832670000
+"gallons, liquid (US)",liquid ounces,128.00,128.000000000
+"gallons, liquid (US)",liquid pints,8.00,8.000000000
+"gallons, liquid (US)",liquid quarts,4.00,4.000000000
+"gallons, liquid (US)",liters,3.79,3.785411784
+"gallons, liquid (US)",milliliters,3785.41,3785.411784000
+"gallons, liquid (US)",minims,61440.00,61440.000000000
+gills (US),centiliters,11.83,11.829400000
+gills (US),cubic feet,0.00,0.004177517
+gills (US),cubic inches,7.22,7.218750000
+gills (US),gallons,0.03,0.031250000
+gills (US),gills (British),0.83,0.832670000
+gills (US),liquid ounces,4.00,4.000000000
+gills (US),liquid pints,0.25,0.250000000
+gills (US),liquid quarts,0.13,0.125000000
+gills (US),liters,0.12,0.118294118
+gills (US),milliliters,118.29,118.294118250
+gills (US),minims,1920.00,1920.000000000
+grains,avoirdupois drams,0.04,0.036571430
+grains,avoirdupois ounces,0.00,0.002285710
+grains,avoirdupois pounds,0.00,0.000142860
+grains,grams,0.06,0.064798910
+grains,kilograms,0.00,0.000064799
+grains,milligrams,64.80,64.798910000
+grains,pennyweights,0.04,0.042000000
+grains,scruples,0.05,0.050000000
+grains,troy drams,0.02,0.016600000
+grains,troy ounces,0.00,0.002083330
+grains,troy pounds,0.00,0.000200610
+grams,avoirdupois drams,0.56,0.564383390
+grams,avoirdupois ounces,0.04,0.035273961
+grams,avoirdupois pounds,0.00,0.002204623
+grams,grains,15.43,15.432361000
+grams,kilograms,0.00,0.001000000
+grams,milligrams,1000.00,1000.000000000
+grams,troy ounces,0.03,0.032150747
+grams,troy pounds,0.00,0.002679230
+hands (height of horse),centimeters,10.16,10.160000000
+hands (height of horse),inches,4.00,4.000000000
+hectares,acres,2.47,2.471053800
+hectares,square feet,107639.10,107639.100000000
+hectares,square kilometers,0.01,0.010000000
+hectares,square meters,10000.00,10000.000000000
+hectares,square miles,0.00,0.003861020
+hectares,square yards,11959.90,11959.900000000
+"hundredweights, long",avoirdupois pounds,112.00,112.000000000
+"hundredweights, long",kilograms,50.80,50.802345000
+"hundredweights, long",long tons,0.05,0.050000000
+"hundredweights, long",metric tons,0.05,0.050802345
+"hundredweights, long",short tons,0.06,0.056000000
+"hundredweights, short",avoirdupois pounds,100.00,100.000000000
+"hundredweights, short",kilograms,45.36,45.359237000
+"hundredweights, short",long tons,0.04,0.044642860
+"hundredweights, short",metric tons,0.05,0.045359237
+"hundredweights, short",short tons,0.05,0.050000000
+inches,centimeters,2.54,2.540000000
+inches,feet,0.08,0.083333330
+inches,meters,0.03,0.025400000
+inches,millimeters,25.40,25.400000000
+inches,yards,0.03,0.027777780
+"inches, cubic",bushels,0.00,0.000465025
+"inches, cubic",cubic centimeters,16.39,16.387064000
+"inches, cubic",cubic feet,0.00,0.000578704
+"inches, cubic",cubic meters,0.00,0.000016387
+"inches, cubic",cubic yards,0.00,0.000021433
+"inches, cubic",dry pints,0.03,0.029761600
+"inches, cubic",dry quarts,0.01,0.014880800
+"inches, cubic",gallons,0.00,0.004329000
+"inches, cubic",gills,0.14,0.138528100
+"inches, cubic",liquid ounces,0.55,0.554112600
+"inches, cubic",liquid pints,0.03,0.034632030
+"inches, cubic",liquid quarts,0.02,0.017316020
+"inches, cubic",liters,0.02,0.016387064
+"inches, cubic",milliliters,16.39,16.387064000
+"inches, cubic",minims (US),265.97,265.974000000
+"inches, cubic",pecks,0.00,0.001860100
+"inches, square",square centimeters,6.45,6.451600000
+"inches, square",square feet,0.01,0.006944440
+"inches, square",square meters,0.00,0.000645160
+"inches, square",square yards,0.00,0.000771605
+kilograms,avoirdupois drams,564.38,564.383400000
+kilograms,avoirdupois ounces,35.27,35.273962000
+kilograms,avoirdupois pounds,2.20,2.204622622
+kilograms,grains,15432.36,15432.360000000
+kilograms,grams,1000.00,1000.000000000
+kilograms,long tons,0.00,0.000984200
+kilograms,metric tons,0.00,0.001000000
+kilograms,short hundredweights,0.02,0.022046230
+kilograms,short tons,0.00,0.001102310
+kilograms,troy ounces,32.15,32.150750000
+kilograms,troy pounds,2.68,2.679229000
+kilometers,meters,1000.00,1000.000000000
+kilometers,statute miles,0.62,0.621371192
+"kilometers, square",acres,247.11,247.105380000
+"kilometers, square",hectares,100.00,100.000000000
+"kilometers, square",square meters,1000000.00,1000000.000000000
+"kilometers, square",statute miles,0.39,0.386102160
+knots (nautical mi/hr),kilometers/hour,1.85,1.852000000
+knots (nautical mi/hr),statute miles/hour,1.15,1.151000000
+"leagues, nautical",kilometers,5.56,5.556000000
+"leagues, nautical",nautical miles,3.00,3.000000000
+"leagues, statute",kilometers,4.83,4.828032000
+"leagues, statute",statute miles,3.00,3.000000000
+"links, square surveyor's",square centimeters,404.69,404.686000000
+"links, square surveyor's",square inches,62.73,62.726400000
+"links, surveyor's",centimeters,20.12,20.116800000
+"links, surveyor's",chains,0.01,0.010000000
+"links, surveyor's",inches,7.92,7.920000000
+liters,bushels,0.03,0.028377590
+liters,cubic feet,0.04,0.035314670
+liters,cubic inches,61.02,61.023740000
+liters,cubic meters,0.00,0.001000000
+liters,cubic yards,0.00,0.001307950
+liters,dekaliters,0.10,0.100000000
+liters,dry pints,1.82,1.816166000
+liters,dry quarts,0.91,0.908082980
+liters,gallons,0.26,0.264172052
+liters,gills (US),8.45,8.453506000
+liters,liquid ounces,33.81,33.814020000
+liters,liquid pints,2.11,2.113376000
+liters,liquid quarts,1.06,1.056688200
+liters,milliliters,1000.00,1000.000000000
+liters,pecks,0.11,0.113510400
+meters,centimeters,100.00,100.000000000
+meters,feet,3.28,3.280839895
+meters,inches,39.37,39.370079000
+meters,kilometers,0.00,0.001000000
+meters,millimeters,1000.00,1000.000000000
+meters,statute miles,0.00,0.000621371
+meters,yards,1.09,1.093613298
+"meters, cubic",bushels,28.38,28.377590000
+"meters, cubic",cubic feet,35.31,35.314666700
+"meters, cubic",cubic inches,61023.74,61023.744000000
+"meters, cubic",cubic yards,1.31,1.307950619
+"meters, cubic",gallons,264.17,264.172050000
+"meters, cubic",liters,1000.00,1000.000000000
+"meters, cubic",pecks,113.51,113.510400000
+"meters, square",acres,0.00,0.000247105
+"meters, square",hectares,0.00,0.000100000
+"meters, square",square centimeters,10000.00,10000.000000000
+"meters, square",square feet,10.76,10.763910400
+"meters, square",square inches,1550.00,1550.003100000
+"meters, square",square yards,1.20,1.195990046
+microns,meters,0.00,0.000001000
+microns,inches,0.00,0.000039400
+mils,inches,0.00,0.001000000
+mils,millimeters,0.03,0.025400000
+"miles, nautical",kilometers,1.85,1.852000000
+"miles, nautical",statute miles,1.15,1.150779400
+"miles, statute",centimeters,160934.40,160934.400000000
+"miles, statute",feet,5280.00,5280.000000000
+"miles, statute",furlongs,8.00,8.000000000
+"miles, statute",inches,63360.00,63360.000000000
+"miles, statute",kilometers,1.61,1.609344000
+"miles, statute",meters,1609.34,1609.344000000
+"miles, statute",rods,320.00,320.000000000
+"miles, statute",yards,1760.00,1760.000000000
+"miles, square nautical",square kilometers,3.43,3.429904000
+"miles, square nautical",square statute miles,1.33,1.325000000
+"miles, square statute",acres,640.00,640.000000000
+"miles, square statute",hectares,259.00,258.998811034
+"miles, square statute",sections,1.00,1.000000000
+"miles, square statute",square feet,27878400.00,27878400.000000000
+"miles, square statute",square kilometers,2.59,2.589988110
+"miles, square statute",square meters,2589988.11,2589988.110336000
+"miles, square statute",square nautical miles,0.755miles,#VALUE!
+"miles, square statute",square rods,102400.00,102400.000000000
+"miles, square statute",square yards,3097600.00,3097600.000000000
+milligrams,grains,0.02,0.015432358
+milliliters,cubic inches,0.06,0.061023744
+milliliters,gallons,0.00,0.000264170
+milliliters,gills (US),0.01,0.008453500
+milliliters,liquid ounces,0.03,0.033814020
+milliliters,liquid pints,0.00,0.002113400
+milliliters,liquid quarts,0.00,0.001056700
+milliliters,liters,0.00,0.001000000
+milliliters,minims,16.23,16.230730000
+millimeters,inches,0.04,0.039370079
+minims (US),cubic inches,0.00,0.003759770
+minims (US),gills (US),0.00,0.000520830
+minims (US),liquid ounces,0.00,0.002083330
+minims (US),milliliters,0.06,0.061611520
+minims (US),minims (British),1.04,1.041000000
+"ounces, avoirdupois",avoirdupois drams,16.00,16.000000000
+"ounces, avoirdupois",avoirdupois pounds,0.06,0.062500000
+"ounces, avoirdupois",grains,437.50,437.500000000
+"ounces, avoirdupois",grams,28.35,28.349523125
+"ounces, avoirdupois",kilograms,0.03,0.028349523
+"ounces, avoirdupois",troy ounces,0.91,0.911458300
+"ounces, avoirdupois",troy pounds,0.08,0.075954860
+"ounces, liquid (US)",cubic feet,0.00,0.001044380
+"ounces, liquid (US)",centiliters,2.96,2.957350000
+"ounces, liquid (US)",cubic inches,1.80,1.804687500
+"ounces, liquid (US)",gallons,0.01,0.007812500
+"ounces, liquid (US)",gills (US),0.25,0.250000000
+"ounces, liquid (US)",liquid drams,8.00,8.000000000
+"ounces, liquid (US)",liquid ounces (British),1.04,1.041000000
+"ounces, liquid (US)",liquid pints,0.06,0.062500000
+"ounces, liquid (US)",liquid quarts,0.03,0.031250000
+"ounces, liquid (US)",liters,0.03,0.029573530
+"ounces, liquid (US)",milliliters,29.57,29.573529600
+"ounces, liquid (US)",minims,480.00,480.000000000
+"ounces, troy",avoirdupois drams,17.55,17.554290000
+"ounces, troy",avoirdupois ounces,1.10,1.097143000
+"ounces, troy",avoirdupois pounds,0.07,0.068571430
+"ounces, troy",grains,480.00,480.000000000
+"ounces, troy",grams,31.10,31.103476800
+"ounces, troy",pennyweights,20.00,20.000000000
+"ounces, troy",troy drams,8.00,8.000000000
+"ounces, troy",troy pounds,0.08,0.083333300
+paces (US),centimeters,76.20,76.200000000
+paces (US),inches,30.00,30.000000000
+pecks (US),bushels,0.25,0.250000000
+pecks (US),cubic feet,0.31,0.311114000
+pecks (US),cubic inches,537.61,537.605000000
+pecks (US),cubic meters,0.01,0.008809770
+pecks (US),cubic yards,0.01,0.011522740
+pecks (US),dekaliters,0.88,0.880976750
+pecks (US),dry pints,16.00,16.000000000
+pecks (US),dry quarts,8.00,8.000000000
+pecks (US),liters,8.81,8.809767500
+pecks (US),pecks (British),0.97,0.968900000
+pennyweights,grains,24.00,24.000000000
+pennyweights,grams,1.56,1.555200840
+pennyweights,troy ounces,0.05,0.050000000
+"pints, dry (US)",bushels,0.02,0.015625000
+"pints, dry (US)",cubic feet,0.02,0.019444630
+"pints, dry (US)",cubic inches,33.60,33.600312500
+"pints, dry (US)",dekaliters,0.06,0.055061050
+"pints, dry (US)",dry pints (British),0.97,0.968900000
+"pints, dry (US)",dry quarts,0.50,0.500000000
+"pints, dry (US)",liters,0.55,0.550610470
+"pints, liquid (US)",cubic feet,0.02,0.016710070
+"pints, liquid (US)",cubic inches,28.88,28.875000000
+"pints, liquid (US)",deciliters,4.73,4.731760000
+"pints, liquid (US)",gallons,0.13,0.125000000
+"pints, liquid (US)",gills (US),4.00,4.000000000
+"pints, liquid (US)",liquid ounces,16.00,16.000000000
+"pints, liquid (US)",liquid pints (British),0.83,0.832670000
+"pints, liquid (US)",liquid quarts,0.50,0.500000000
+"pints, liquid (US)",liters,0.47,0.473176473
+"pints, liquid (US)",milliliters,473.18,473.176473000
+"pints, liquid (US)",minims,7680.00,7680.000000000
+points (typographical),inches,0.01,0.013837000
+points (typographical),millimeters,0.35,0.351459800
+"pounds, avoirdupois",avoirdupois drams,256.00,256.000000000
+"pounds, avoirdupois",avoirdupois ounces,16.00,16.000000000
+"pounds, avoirdupois",grains,7000.00,7000.000000000
+"pounds, avoirdupois",grams,453.59,453.592370000
+"pounds, avoirdupois",kilograms,0.45,0.453592370
+"pounds, avoirdupois",long tons,0.00,0.000446429
+"pounds, avoirdupois",metric tons,0.00,0.000453592
+"pounds, avoirdupois",quintals,0.00,0.004535920
+"pounds, avoirdupois",short tons,0.00,0.000500000
+"pounds, avoirdupois",troy ounces,14.58,14.583330000
+"pounds, avoirdupois",troy pounds,1.22,1.215278000
+"pounds, troy",avoirdupois drams,210.65,210.651400000
+"pounds, troy",avoirdupois ounces,13.17,13.165710000
+"pounds, troy",avoirdupois pounds,0.82,0.822857100
+"pounds, troy",grains,5760.00,5760.000000000
+"pounds, troy",grams,373.24,373.241721600
+"pounds, troy",kilograms,0.37,0.373241722
+"pounds, troy",pennyweights,240.00,240.000000000
+"pounds, troy",troy ounces,12.00,12.000000000
+"quarts, dry (US)",bushels,0.03,0.031250000
+"quarts, dry (US)",cubic feet,0.04,0.038889250
+"quarts, dry (US)",cubic inches,67.20,67.200625000
+"quarts, dry (US)",dekaliters,0.11,0.110122100
+"quarts, dry (US)",dry pints,2.00,2.000000000
+"quarts, dry (US)",dry quarts (British),0.97,0.968900000
+"quarts, dry (US)",liters,1.10,1.101221000
+"quarts, dry (US)",pecks,0.13,0.125000000
+"quarts, dry (US)","pints, dry (US)",2.00,2.000000000
+"quarts, liquid (US)",cubic feet,0.03,0.033420140
+"quarts, liquid (US)",cubic inches,57.75,57.750000000
+"quarts, liquid (US)",deciliters,9.46,9.463530000
+"quarts, liquid (US)",gallons,0.25,0.250000000
+"quarts, liquid (US)",gills (US),8.00,8.000000000
+"quarts, liquid (US)",liquid ounces,32.00,32.000000000
+"quarts, liquid (US)",liquid pints (US),2.00,2.000000000
+"quarts, liquid (US)",liquid quarts (British),0.83,0.832670000
+"quarts, liquid (US)",liters,0.95,0.946352946
+"quarts, liquid (US)",milliliters,946.35,946.352946000
+"quarts, liquid (US)",minims,15360.00,15360.000000000
+quintals,avoirdupois pounds,220.46,220.462260000
+quintals,kilograms,100.00,100.000000000
+quintals,metric tons,0.10,0.100000000
+rods,feet,16.50,16.500000000
+rods,meters,5.03,5.029200000
+rods,yards,5.50,5.500000000
+"rods, square",acres,0.01,0.006250000
+"rods, square",square meters,25.29,25.292850000
+"rods, square",square yards,30.25,30.250000000
+scruples,grains,20.00,20.000000000
+scruples,grams,1.30,1.295978200
+scruples,troy drams,0.33,0.333000000
+sections (US),square kilometers,2.59,2.589988100
+sections (US),square statute miles,1.00,1.000000000
+spans,centimeters,22.86,22.860000000
+spans,inches,9.00,9.000000000
+steres,cubic meters,1.00,1.000000000
+steres,cubic yards,1.31,1.307950000
+tablespoons,milliliters,14.79,14.786760000
+tablespoons,teaspoons,3.00,3.000000000
+teaspoons,milliliters,4.93,4.928922000
+teaspoons,tablespoons,0.33,0.333333000
+"ton-miles, long",metric ton-kilometers,1.64,1.635169000
+"ton-miles, short",metric ton-kilometers,1.46,1.459972000
+"tons, gross register",cubic feet of permanently enclosed space,100.00,100.000000000
+"tons, gross register",cubic meters of permanently enclosed space,2.83,2.831684700
+"tons, long (deadweight)",avoirdupois ounces,35840.00,35840.000000000
+"tons, long (deadweight)",avoirdupois pounds,2240.00,2240.000000000
+"tons, long (deadweight)",kilograms,1016.05,1016.046909800
+"tons, long (deadweight)",long hundredweights,20.00,20.000000000
+"tons, long (deadweight)",metric tons,1.02,1.016046909
+"tons, long (deadweight)",short hundredweights,22.40,22.400000000
+"tons, long (deadweight)",short tons,1.12,1.120000000
+"tons, metric",avoirdupois pounds,2204.62,2204.623000000
+"tons, metric",kilograms,1000.00,1000.000000000
+"tons, metric",long hundredweights,19.68,19.684130300
+"tons, metric",long tons,0.98,0.984206500
+"tons, metric",quintals,10.00,10.000000000
+"tons, metric",short hundredweights,22.05,22.046230000
+"tons, metric",short tons,1.10,1.102311300
+"tons, metric",troy ounces,32150.75,32150.750000000
+"tons, net register",cubic feet of permanently enclosed space,100.00,100.000000000
+,for cargo and passengers,,0.000000000
+"tons, net register",cubic meters of permanently enclosed space,2.83,2.831684700
+,for cargo and passengers,,0.000000000
+"tons, shipping",cubic feet of permanently enclosed cargo space,42.00,42.000000000
+"tons, shipping",cubic meters of permanently enclosed cargo space,1.19,1.189307574
+"tons, short",avoirdupois pounds,2000.00,2000.000000000
+"tons, short",kilograms,907.18,907.184740000
+"tons, short",long hundredweights,17.86,17.857140000
+"tons, short",long tons,0.89,0.892857100
+"tons, short",metric tons,0.91,0.907184740
+"tons, short",short hundredweights,20.00,20.000000000
+townships (US),sections,36.00,36.000000000
+townships (US),square kilometers,93.24,93.239572000
+townships (US),square statute miles,36.00,36.000000000
+yards,centimeters,91.44,91.440000000
+yards,feet,3.00,3.000000000
+yards,inches,36.00,36.000000000
+yards,meters,0.91,0.914400000
+yards,miles,0.00,0.000568180
+"yards, cubic",bushels,21.70,21.696227000
+"yards, cubic",cubic feet,27.00,27.000000000
+"yards, cubic",cubic inches,46656.00,46656.000000000
+"yards, cubic",cubic meters,0.76,0.764554858
+"yards, cubic",gallons,201.97,201.974000000
+"yards, cubic",liters,764.55,764.554857984
+"yards, cubic",pecks,86.78,86.784910000
+"yards, square",acres,0.00,0.000206612
+"yards, square",hectares,0.00,0.000083613
+"yards, square",square centimeters,8361.27,8361.273600000
+"yards, square",square feet,9.00,9.000000000
+"yards, square",square inches,1296.00,1296.000000000
+"yards, square",square meters,0.84,0.836127360
+"yards, square",square miles,0.00,0.000000323
